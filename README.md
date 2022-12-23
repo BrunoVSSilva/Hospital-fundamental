@@ -74,3 +74,15 @@ Abastecer o banco com informações fictícias.
 # Receita
 ![image](https://user-images.githubusercontent.com/103516597/208772083-e4421b5f-9825-4ff7-bf10-177077039f97.png)
 
+# Parte 4
+
+A Ordem do Alterar. 
+Hummm... 
+Não... Não acabou... 
+Um banco de dados pode sofrer alterações ao longo da sua concepção e do seu desenvolvimento. Nesse momento devemos nos preparar para atualizar nossas estratégias. 
+Mãos a Obra. 
+Pensando no banco que já foi criado para o Projeto do Hospital, realize algumas alterações nas tabelas e nos dados usando comandos de atualização e exclusão:
+Crie um script que adicione uma coluna “em_atividade” para os médicos, indicando se ele ainda está atuando no hospital ou não. 
+Crie um script para atualizar ao menos dois médicos como inativos e os demais em atividade.
+
+![image](https://user-images.githubusercontent.com/103516597/209404044-5d67e376-b96d-4025-8c77-c78922e95557.png)
