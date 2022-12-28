@@ -111,5 +111,3 @@ Crie um script para atualizar ao menos dois médicos como inativos e os demais e
 
 6. Nome do paciente, data da consulta e especialidade de todas as consultas em que os pacientes eram maiores de 18 anos na data da consulta.
 
-
-
