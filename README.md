@@ -105,4 +105,11 @@ Crie um script para atualizar ao menos dois médicos como inativos e os demais e
 
 ![image](https://user-images.githubusercontent.com/103516597/209852728-150cabbb-e883-4a25-a7a8-ea568140b553.png)
 
-5. Todos os dados das internações em seus respectivos quartos, calculando o total da internação a partir do valor de diária do quarto e o número de dias entre a entrada e a alta.
+5. Data e número de quarto de internações em quartos do tipo “apartamento”.
+
+![image](https://user-images.githubusercontent.com/103516597/209861890-9450fd31-1662-4773-ac69-51709488179d.png)
+
+6. Nome do paciente, data da consulta e especialidade de todas as consultas em que os pacientes eram maiores de 18 anos na data da consulta.
+
+
+
