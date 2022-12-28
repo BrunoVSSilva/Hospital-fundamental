@@ -98,3 +98,11 @@ Crie um script para atualizar ao menos dois médicos como inativos e os demais e
 ![image](https://user-images.githubusercontent.com/103516597/209850147-91ca142c-3986-457b-b6d8-cecbec5e1ac2.png)
 
 3.Receituário completo da primeira consulta registrada com receituário associado.
+
+![image](https://user-images.githubusercontent.com/103516597/209851130-412c44ca-1711-4eba-b909-1cbb4af5bdad.png)
+
+4. Todos os dados da consulta de maior valor e também da de menor valor (ambas as consultas não foram realizadas sob convênio).
+
+![image](https://user-images.githubusercontent.com/103516597/209852728-150cabbb-e883-4a25-a7a8-ea568140b553.png)
+
+5. Todos os dados das internações em seus respectivos quartos, calculando o total da internação a partir do valor de diária do quarto e o número de dias entre a entrada e a alta.
