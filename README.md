@@ -86,3 +86,15 @@ Crie um script que adicione uma coluna “em_atividade” para os médicos, indi
 Crie um script para atualizar ao menos dois médicos como inativos e os demais em atividade.
 
 ![image](https://user-images.githubusercontent.com/103516597/209404044-5d67e376-b96d-4025-8c77-c78922e95557.png)
+
+# Parte 5
+
+1. Todos os dados e o valor médio das consultas do ano de 2020 e das que foram feitas sob convênio.
+
+![image](https://user-images.githubusercontent.com/103516597/209850099-12a6634f-5096-44de-b14a-608eabdb158d.png)
+
+2. Todos os dados das internações que tiveram data de alta maior que a data prevista para a alta.
+
+![image](https://user-images.githubusercontent.com/103516597/209850147-91ca142c-3986-457b-b6d8-cecbec5e1ac2.png)
+
+3.Receituário completo da primeira consulta registrada com receituário associado.
